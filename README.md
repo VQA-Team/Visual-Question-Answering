@@ -41,3 +41,9 @@ We then run inference on the tflite model and take the answer with the highest p
 Finally, the TextToSpeech API was used to convert the answer into voice. 
 ![image](https://user-images.githubusercontent.com/44211916/170724465-907bb34a-4284-4b46-b77d-b0f2db1af3af.png)
 
+## Team Members:
+  - <a href=""> Ashraqat Hisham Ahmed </a>
+  - <a href="https://github.com/Mohamed-AN"> Mohamed Abdelrahman Nasser </a>
+  - <a href="https://github.com/Mostafa-Nafie"> Mostafa Alaa Nafie </a>
+  - <a href="https://github.com/Nadine-Fadlallah"> Nadine Muhammad Fadlallah </a>
+  - <a href="https://github.com/NadaAdelMousa"> Nada Adel Mousa</a>
